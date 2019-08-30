@@ -5,4 +5,4 @@
 
 2. [SASS-panel themes](https://craew.github.io/learning-SASS/sasspanel-themed/)
     
-    Re-theme one of the group projects from one of the other groups.
+    Create a new theme for one of the group projects from one of the other groups.
